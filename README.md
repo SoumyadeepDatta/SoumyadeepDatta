@@ -7,10 +7,10 @@
 </div>
 
 
-- 🔭 I’m currently working on **open-LMS**
+- 🔭 I’m currently working on <a href="https://github.com/SoumyadeepDatta/open-LMS-angular/tree/dev">`open-LMS`</a>
 - 🌱 I’m currently learning **Spring-Boot, Angular**
-- 👯 I’m looking to collaborate on **open-LMS**
-- 🤝 I’m looking for help with **open-LMS**
+- 👯 I’m looking to collaborate on <a href="https://github.com/SoumyadeepDatta/spring-e-commerce-web-app">`spring-e-commerce-web-app`</a>
+- 🤝 I’m looking for help with <a href="https://github.com/SoumyadeepDatta/open-LMS/tree/dev">`open-LMS`</a>
 - 👨‍💻 All of my projects are available at [https://github.com/SoumyadeepDatta/](https://github.com/SoumyadeepDatta/)
 - 🧑‍💻 I regularly practice coding on [https://auth.geeksforgeeks.org/user/soumyadeepdatta34/practice](https://auth.geeksforgeeks.org/user/soumyadeepdatta34/practice)
 - 💬 Ask me about **Anything 🦧**
